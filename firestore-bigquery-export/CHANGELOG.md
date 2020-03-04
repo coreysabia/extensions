@@ -1,4 +1,5 @@
 ## Version 0.1.2
+
 fixed - adding "IF NOT EXISTS" to safely run script multiple times
 fixed - updating bigquery library
 

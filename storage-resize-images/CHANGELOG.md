@@ -1,4 +1,5 @@
 ## Version 0.1.5
+
 fixed - ensure content type is always available (issue #175)
 
 ## Version 0.1.4
